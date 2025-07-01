@@ -654,11 +654,11 @@
             <key>Debug</key>
             <dict>
                 <key>AppleDebug</key>
-                <false/>
+                <true/>
                 <key>ApplePanic</key>
-                <false/>
+                <true/>
                 <key>DisableWatchDog</key>
-                <false/>
+                <true/>
                 <key>DisplayDelay</key>
                 <integer>0</integer>
                 <key>DisplayLevel</key>
@@ -668,7 +668,7 @@
                 <key>SysReport</key>
                 <false/>
                 <key>Target</key>
-                <integer>3</integer>
+                <integer>67</integer>
             </dict>
             <key>Entries</key>
             <array/>
@@ -1494,11 +1494,11 @@
                 <key>IgnoreInvalidFlexRatio</key>
                 <false/>
                 <key>ReleaseUsbOwnership</key>
-                <true/>
+                <false/>
                 <key>ReloadOptionRoms</key>
                 <false/>
                 <key>RequestBootVarRouting</key>
-                <false/>
+                <true/>
                 <key>ResizeGpuBars</key>
                 <integer>-1</integer>
                 <key>ResizeUsePciRbIo</key>
