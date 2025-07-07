@@ -627,7 +627,7 @@
                 <key>HibernateSkipsPicker</key>
                 <false/>
                 <key>HideAuxiliary</key>
-                <true/>
+                <false/>
                 <key>InstanceIdentifier</key>
                 <string></string>
                 <key>LauncherOption</key>
@@ -921,7 +921,7 @@
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Flavour</key>
                     <string>Auto</string>
                     <key>FullNvramAccess</key>
@@ -943,7 +943,7 @@
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Flavour</key>
                     <string>Auto</string>
                     <key>FullNvramAccess</key>
